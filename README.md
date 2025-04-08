@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=0AFFEF&width=1000&lines=Code.+Build.+Repeat.;Backend+Craftsman+%7C+Frontend+Polisher.;Performance+matters.+Code+cleanly.+Ship+fast."/>
 </p>
 
-<table>
-  <tr>
-    <td>
+---
 
 ### 👨‍💻 About Me
 
@@ -24,6 +22,13 @@ Also a homelabber and self-hosting enthusiast:
 • Proxmox VE, TrueNAS, Docker, Pi projects, and off-grid setups
 • Passionate about automation, virtualization, and infrastructure
 ```
+
+---
+
+### 📫 Reach Me
+- 📧 [Email](mailto:axananthu@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
+- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
 
 ---
 
@@ -57,7 +62,6 @@ Also a homelabber and self-hosting enthusiast:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Proxmox](https://img.shields.io/badge/Proxmox-EE7600?style=flat&logo=proxmox)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi)
 
 ---
 
@@ -91,15 +95,3 @@ Also a homelabber and self-hosting enthusiast:
   <em>Building software that works, looks good, and runs fast ⚙️<br/>
   And servers that hum quietly in the corner 🖥️</em>
 </p>
-
-</td>
-<td valign="top" align="right">
-
-### 📫 Reach Me
-- 📧 [Email](mailto:axananthu@outlook.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
-- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
-
-</td>
-</tr>
-</table>
