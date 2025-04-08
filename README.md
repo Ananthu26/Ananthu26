@@ -76,7 +76,7 @@ System design, clean architecture, and performance are my focus.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=Contributions,Repositories,Commits,PRsMerged,Joined,Experience" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 
 ---
