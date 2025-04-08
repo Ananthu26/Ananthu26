@@ -62,9 +62,10 @@
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=github_dark&hide=contribs" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=github_dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=github_dark" height="150" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=algolia&margin-w=15&row=1&no-frame=true" />
