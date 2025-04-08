@@ -58,10 +58,10 @@ System design, clean architecture, and performance are my focus.
 
 ---
 
-### 🏅 Dev Badges & Fun Stuff
+### 🏅 Dev Badges
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananthu26&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ananthu26?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/ananthu26"><img src="https://komarev.com/ghpvc/?username=ananthu26&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/ananthu26?tab=followers"><img src="https://img.shields.io/github/followers/ananthu26?label=Follow&style=social" alt="GitHub Followers" /></a>
   <img src="https://img.shields.io/badge/-Build%20%26%20Break-black?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Night%20Coder-000?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square&logo=github&logoColor=white" />
@@ -76,7 +76,7 @@ System design, clean architecture, and performance are my focus.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=contributions,repositories,commits,prs_merged,joined,experience" />
 </p>
 
 ---
