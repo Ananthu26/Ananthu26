@@ -23,6 +23,11 @@ Ananthakrishnan here – a passionate full stack developer from India 🇮🇳.
 I enjoy building robust backend services and slick frontends.
 MERN is my go-to stack, but I love Java and Python too.
 System design, clean architecture, and performance are my focus.
+
+Also a homelabber and self-hosting enthusiast:
+• Building custom servers and tinkering with networks
+• Proxmox VE, TrueNAS, Docker, Pi projects, and off-grid setups
+• Passionate about automation, virtualization, and infrastructure
 ```
 
 ---
@@ -51,10 +56,13 @@ System design, clean architecture, and performance are my focus.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
 
-#### ⚙️ Tools
+#### ⚙️ Tools & Infra
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Proxmox](https://img.shields.io/badge/Proxmox-EE7600?style=flat&logo=proxmox)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi)
 
 ---
 
@@ -76,7 +84,7 @@ System design, clean architecture, and performance are my focus.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=Contributions,Repositories,Commits,PRsMerged,Joined,Experience" />
 </p>
 
 ---
@@ -85,5 +93,6 @@ System design, clean architecture, and performance are my focus.
 > "First, solve the problem. Then, write the code." — John Johnson
 
 <p align="center">
-  <em>Building software that works, looks good, and runs fast ⚙️</em>
+  <em>Building software that works, looks good, and runs fast ⚙️<br/>
+  And servers that hum quietly in the corner 🖥️</em>
 </p>
