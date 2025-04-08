@@ -7,14 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=0AFFEF&width=1000&lines=Code.+Build.+Repeat.;Backend+Craftsman+%7C+Frontend+Polisher.;Performance+matters.+Code+cleanly.+Ship+fast."/>
 </p>
 
----
-
-### 📫 Reach Me
-- 📧 Email: [axananthu@outlook.com](mailto:axananthu@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/ananthu26](https://linkedin.com/in/ananthu26)
-- 🌐 Portfolio: [portfolio-ax.vercel.app](https://portfolio-ax.vercel.app)
-
----
+<table>
+  <tr>
+    <td>
 
 ### 👨‍💻 About Me
 
@@ -96,3 +91,15 @@ Also a homelabber and self-hosting enthusiast:
   <em>Building software that works, looks good, and runs fast ⚙️<br/>
   And servers that hum quietly in the corner 🖥️</em>
 </p>
+
+</td>
+<td valign="top" align="right">
+
+### 📫 Reach Me
+- 📧 [Email](mailto:axananthu@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
+- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
+
+</td>
+</tr>
+</table>
