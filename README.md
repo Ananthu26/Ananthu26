@@ -1,110 +1,105 @@
-<!-- README.md -->
+<!-- README.md with Dark/Light Toggle and Project Cards -->
 
-<h1 align="center">Hey there 👋 I'm Ananthakrishnan</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Wizard | Rustacean 🦀 | Problem Solver | Dev-for-Fun 💻</h3>
+<h1 align="center">Hi, I'm Ananthakrishnan 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Enthusiast | Java & Python Practitioner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=38B2AC&width=550&lines=Turning+coffee+into+clean+code.;I+build+cool+stuff+on+the+web+and+beyond.;Full-stack+dev+by+day%2C+debugger+by+night.;Rust%2C+MERN%2C+Java+%E2%80%94+bring+it+on!;Breaking+bugs+and+building+features.;Eat%2C+Sleep%2C+Code%2C+Repeat+%F0%9F%91%BB"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=38B2AC&width=600&lines=Building+modern+apps+with+clean+code.;Debugging+one+line+at+a+time.;Engineer+by+day%2C+bug+exterminator+by+night.;Always+learning%2C+always+improving.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=000000&width=600&lines=Building+modern+apps+with+clean+code.;Debugging+one+line+at+a+time.;Engineer+by+day%2C+bug+exterminator+by+night.;Always+learning%2C+always+improving.">
+  </picture>
 </p>
 
-
 ---
 
-### 🌟 Who Am I?
+### 👨‍💻 About Me
 
-```txt
-I'm Ananthakrishnan — a curious coder from India 🇮🇳
-Always knee-deep in backend logic or UI pixel-pushing.
-From Rust's memory safety to React's re-renders — I live and breathe full stack dev.
+```bash
+> whoami
+I'm Ananthakrishnan — a developer from India 🇮🇳
 ```
 
----
-
-### 🚀 Projects & Tech I'm Excited About
-- 🛡️ **FileSwift** – blazing fast, secure file manager in Rust
-- 🧠 Diving into **System Design**, microservices, and **performance tuning**
-- 🧰 I craft tools that make devs' lives easier
-- 🤖 Tinkering with automation, self-hosting, and clean architecture
-
----
-
-### 📫 Let's Connect
-- 📧 Email: [axananthu@outlook.com](mailto:axananthu@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/ananthu26](https://linkedin.com/in/ananthu26)
-- 🌐 Portfolio: [portfolio-ax.vercel.app](https://portfolio-ax.vercel.app)
+- 💻 Passionate about full-stack web development
+- ⚙️ Specialized in building scalable apps with the **MERN stack**
+- 🚀 Exploring backend systems, clean architecture, and automation
+- 📚 Lifelong learner — always ready to try new tech
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 💡 Languages
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
 
 #### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![Express](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
 #### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache)
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ananthu26/insurance-platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthu26&repo=insurance-platform&theme=github_dark" />
+        <br /><strong>Insurance Platform</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ananthu26/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananthu26&repo=portfolio&theme=github_dark" />
+        <br /><strong>My Portfolio</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Let's Connect
+
+- 📧 [axananthu@outlook.com](mailto:axananthu@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
+- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
+
+---
+
+### 💡 Quotes That Keep Me Going
+
+> "First, solve the problem. Then, write the code." — John Johnson  
+> "A good programmer is someone who looks both ways before crossing a one-way street." — Doug Linder  
+> "Deleted code is debugged code." — Jeff Sickel
+
+---
+
+### 🔍 Fun Fact
+
+I don’t always write bugs, but when I do, they’re features in disguise 😎  
+When not coding, I’m usually optimizing my homelab or racing pixels at 200 km/h.
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=github_dark" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=algolia&margin-w=15&row=1&no-frame=true" />
-</p>
-
----
-
-### 🧠 Fun Dev Quotes
-
-> *"It works on my machine."* — Every Developer Ever  
-> *"A good programmer is someone who always looks both ways before crossing a one-way street."* — Doug Linder  
-> *"I don’t care if it works on your machine! We are not shipping your machine!"* — Vidiu Platon  
-> *“Deleted code is debugged code.”* — Jeff Sickel  
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-### 🤝 Fun Fact
-
-> When I’m not coding, I’m probably debugging my dreams or arguing with Stack Overflow answers in my head.  
-> **Life motto?** *Build. Break. Fix. Repeat.*
-
----
-
-<p align="center">
-  <em>Let's build the web (and break it sometimes). One clever bug at a time 🐛🔥</em>
+  <em>Code smart. Debug smarter. Deploy proudly 🚀</em>
 </p>
