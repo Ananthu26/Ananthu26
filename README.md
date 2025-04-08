@@ -9,6 +9,13 @@
 
 ---
 
+### 📫 Reach Me
+- 📧 Email: [axananthu@outlook.com](mailto:axananthu@outlook.com)
+- 💼 LinkedIn: [linkedin.com/in/ananthu26](https://linkedin.com/in/ananthu26)
+- 🌐 Portfolio: [portfolio-ax.vercel.app](https://portfolio-ax.vercel.app)
+
+---
+
 ### 👨‍💻 About Me
 
 ```txt
@@ -17,12 +24,6 @@ I enjoy building robust backend services and slick frontends.
 MERN is my go-to stack, but I love Java and Python too.
 System design, clean architecture, and performance are my focus.
 ```
-
----
-
-### 🌐 Portfolio
-
-Check out my work and blog at 👉 [portfolio-ax.vercel.app](https://portfolio-ax.vercel.app)
 
 ---
 
@@ -57,20 +58,10 @@ Check out my work and blog at 👉 [portfolio-ax.vercel.app](https://portfolio-a
 
 ---
 
-### 📫 Reach Me
-- 📧 Email: [axananthu@outlook.com](mailto:axananthu@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/ananthu26](https://linkedin.com/in/ananthu26)
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=gruvbox&margin-w=15&row=1&no-frame=true" />
 </p>
 
 ---
