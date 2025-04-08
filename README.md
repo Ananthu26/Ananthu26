@@ -4,8 +4,9 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Wizard | Rustacean 🦀 | Problem Solver | Dev-for-Fun 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=38B2AC&width=435&lines=I+write+code+that+writes+itself.;Passionate+about+clean%2C+efficient+systems.;Debugging+is+my+superpower.;Always+learning.+Always+building."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=38B2AC&width=550&lines=Turning+coffee+into+clean+code.;I+build+cool+stuff+on+the+web+and+beyond.;Full-stack+dev+by+day%2C+debugger+by+night.;Rust%2C+MERN%2C+Java+%E2%80%94+bring+it+on!;Breaking+bugs+and+building+features.;Eat%2C+Sleep%2C+Code%2C+Repeat+%F0%9F%91%BB"/>
 </p>
+
 
 ---
 
