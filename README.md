@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | Java | Python | C++ | PHP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=0AFFEF&multiline=true&width=600&lines=Code.+Build.+Repeat.;Backend+Craftsman+%7C+Frontend+Polisher.;Performance+matters.+Code+cleanly.+Ship+fast."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=0AFFEF&width=1000&lines=Code.+Build.+Repeat.;Backend+Craftsman+%7C+Frontend+Polisher.;Performance+matters.+Code+cleanly.+Ship+fast."/>
 </p>
 
 ---
