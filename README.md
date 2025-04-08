@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=0AFFEF&width=1000&lines=Code.+Build.+Repeat.;Backend+Craftsman+%7C+Frontend+Polisher.;Performance+matters.+Code+cleanly.+Ship+fast."/>
 </p>
 
-<table>
-  <tr>
-    <td>
+---
 
 ### 👨‍💻 About Me
 
@@ -84,6 +82,13 @@ Also a homelabber and self-hosting enthusiast:
 
 ---
 
+### 📫 Reach Me
+- 📧 [Email](mailto:axananthu@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
+- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
+
+---
+
 ### 💬 Quote
 > "First, solve the problem. Then, write the code." — John Johnson
 
@@ -91,15 +96,3 @@ Also a homelabber and self-hosting enthusiast:
   <em>Building software that works, looks good, and runs fast ⚙️<br/>
   And professionally managing systems that power them 🖥️</em>
 </p>
-
-</td>
-<td valign="top" align="right">
-
-### 📫 Reach Me
-- 📧 [Email](mailto:axananthu@outlook.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
-- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
-
-</td>
-</tr>
-</table>
