@@ -58,10 +58,25 @@ System design, clean architecture, and performance are my focus.
 
 ---
 
+### 🏅 Dev Badges & Fun Stuff
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananthu26&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ananthu26?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/-Build%20%26%20Break-black?style=flat-square&logo=codewars&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Night%20Coder-000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 
 ---
