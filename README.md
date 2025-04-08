@@ -11,9 +11,9 @@
 
 <p align="center">
   <b>📫 Reach Me</b><br/>
-  <a href="mailto:axananthu@outlook.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/ananthu26">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://portfolio-ax.vercel.app">🌐 Portfolio</a>
+  <a href="mailto:axananthu@outlook.com" target="_blank">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/ananthu26" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://portfolio-ax.vercel.app" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ```txt
 Ananthakrishnan here – a passionate full stack developer from India 🇮🇳.
 I enjoy building clean, performant applications with beautiful UI/UX.
-Primarily work with the MERN stack, but experienced in Java and Python too.
+Primarily work with the MERN stack, experienced in Java and Python too.
 System design, modular architecture, and backend scalability are my strengths.
 
 Also a homelabber and self-hosting enthusiast:
@@ -64,14 +64,13 @@ Also a homelabber and self-hosting enthusiast:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Proxmox](https://img.shields.io/badge/Proxmox-EE7600?style=flat&logo=proxmox)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat&logo=truenas)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi)
 
 ---
 
 ### 🏅 Dev Badges
 <p align="center">
-  <a href="https://github.com/ananthu26"><img src="https://komarev.com/ghpvc/?username=ananthu26&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-  <a href="https://github.com/ananthu26?tab=followers"><img src="https://img.shields.io/github/followers/ananthu26?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/ananthu26" target="_blank"><img src="https://komarev.com/ghpvc/?username=ananthu26&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/ananthu26?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/ananthu26?label=Follow&style=social" alt="GitHub Followers" /></a>
   <img src="https://img.shields.io/badge/-Build%20%26%20Break-black?style=flat-square&logo=codewars&logoColor=white" />
   <img src="https://img.shields.io/badge/-Night%20Coder-000?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=flat-square&logo=github&logoColor=white" />
