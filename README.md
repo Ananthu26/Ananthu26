@@ -9,6 +9,15 @@
 
 ---
 
+<p align="center">
+  <b>📫 Reach Me</b><br/>
+  <a href="mailto:axananthu@outlook.com">📧 Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/ananthu26">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://portfolio-ax.vercel.app">🌐 Portfolio</a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 ```txt
@@ -79,13 +88,6 @@ Also a homelabber and self-hosting enthusiast:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=Contributions,Repositories,Commits,PRsMerged,Joined,Experience" />
 </p>
-
----
-
-### 📫 Reach Me
-- 📧 [Email](mailto:axananthu@outlook.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ananthu26)
-- 🌐 [Portfolio](https://portfolio-ax.vercel.app)
 
 ---
 
