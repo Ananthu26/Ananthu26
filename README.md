@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 ```txt
-Ananthakrishnan here – a passionate full stack developer from India 🇮🇳.
+Ananthakrishnan here – a passionate full stack developer 🇮🇳.
 I enjoy building clean, performant applications with beautiful UI/UX.
 Primarily work with the MERN stack, experienced in Java and Python too.
 System design, modular architecture, and backend scalability are my strengths.
@@ -29,7 +29,7 @@ System design, modular architecture, and backend scalability are my strengths.
 Also a homelabber and self-hosting enthusiast:
 • Building and managing infrastructure for learning and personal use
 • Experience with Proxmox VE, TrueNAS, Docker, and network-level configuration
-• Passionate about systems engineering, automation, and virtualization
+• Passionate about systems engineering, virtualization and automation
 ```
 
 ---
