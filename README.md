@@ -15,6 +15,7 @@
   <a href="https://linkedin.com/in/ananthu26" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://portfolio-ax.vercel.app" target="_blank">🌐 Portfolio</a>
 </p>
+<img src="https://github.com/Ananthu26/Ananthu26/blob/main/TONYY.gif?raw=true" alt="tony" width="100%" />
 
 <table width="100%">
   <tr>
@@ -38,6 +39,7 @@ Also a homelabber and self-hosting enthusiast:
   </tr>
 </table>
 <hr />
+
 
 
 
