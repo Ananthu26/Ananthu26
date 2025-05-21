@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there 👋 I'm Ananthakrishnan</h1>
+<h1 align="center">Hey there 👋 I'm Ananth</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Java | Python | C++ | PHP</h3>
 
 <p align="center">
@@ -15,16 +15,13 @@
   <a href="https://linkedin.com/in/ananthu26" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://portfolio-ax.vercel.app" target="_blank">🌐 Portfolio</a>
 </p>
-<img src="https://github.com/Ananthu26/Ananthu26/blob/main/TONYY.gif?raw=true" alt="tony" width="100%" />
 
-<table width="100%">
-  <tr>
-    <td valign="middle" width="66%" style="display: flex; align-items: center; justify-content: center;">
-      <img src="https://github.com/Ananthu26/Ananthu26/blob/main/%F0%9F%99%8F.gif?raw=true" alt="hippo" width="90%" />
-    </td>
-    <td valign="top" width="34%" style="padding-left: 20px;">
-      <h3>👨‍💻 About Me</h3>
-      <pre style="font-family: monospace; white-space: pre-wrap; font-size: 14px;">
+
+
+   
+    
+   <h3>👨‍💻 About Me</h3>
+  <pre style="font-family: monospace; white-space: pre-wrap; font-size: 14px;">
 Ananthakrishnan here – a passionate full stack developer 🇮🇳.
 I enjoy building clean, performant applications with beautiful UI/UX.
 Primarily work with the MERN stack, experienced in Java and Python too.
@@ -34,10 +31,10 @@ Also a homelabber and self-hosting enthusiast:
 • Building and managing infrastructure for learning and personal use
 • Experience with Proxmox VE, TrueNAS, Docker, and network-level configuration
 • Passionate about systems engineering, virtualization and automation
-      </pre>
-    </td>
-  </tr>
-</table>
+  </pre>
+<img src="https://github.com/Ananthu26/Ananthu26/blob/main/TONYY.gif?raw=true" alt="tony" width="100%" /> 
+ 
+
 <hr />
 
 
