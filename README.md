@@ -17,6 +17,10 @@
 </p>
 
 ---
+<div align="center">
+  
+  ![hippo](https://github.com/Ananthu26/Ananthu26/blob/main/%F0%9F%99%8F.gif?raw=true)
+</div>
 
 ### 👨‍💻 About Me
 
@@ -91,7 +95,7 @@ Also a homelabber and self-hosting enthusiast:
   <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=Contributions,Repositories,Commits,PRsMerged,Joined,Experience" />
 </p>
 
-![hippo](https://media1.tenor.com/m/-hpJpEvIL04AAAAd/thank-you-mohanlal.gif)
+
 
 
 
