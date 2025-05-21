@@ -91,7 +91,7 @@ Also a homelabber and self-hosting enthusiast:
   <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=Contributions,Repositories,Commits,PRsMerged,Joined,Experience" />
 </p>
 
-![hippo](https://i.pinimg.com/originals/07/33/1b/07331b85449052cff8acbc861d3c6f01.gif)
+![hippo]([https://i.pinimg.com/originals/07/33/1b/07331b85449052cff8acbc861d3c6f01.gif](https://tenor.com/b1HtQ.gif))
 
 
 
