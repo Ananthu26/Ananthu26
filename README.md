@@ -16,15 +16,14 @@
   <a href="https://portfolio-ax.vercel.app" target="_blank">🌐 Portfolio</a>
 </p>
 
----
-<div align="center">
-  
-  ![hippo](https://github.com/Ananthu26/Ananthu26/blob/main/%F0%9F%99%8F.gif?raw=true)
-</div>
-
-### 👨‍💻 About Me
-
-```txt
+<table width="100%">
+  <tr>
+    <td valign="middle" width="66%" style="display: flex; align-items: center; justify-content: center;">
+      <img src="https://github.com/Ananthu26/Ananthu26/blob/main/%F0%9F%99%8F.gif?raw=true" alt="hippo" width="90%" />
+    </td>
+    <td valign="top" width="34%" style="padding-left: 20px;">
+      <h3>👨‍💻 About Me</h3>
+      <pre style="font-family: monospace; white-space: pre-wrap; font-size: 14px;">
 Ananthakrishnan here – a passionate full stack developer 🇮🇳.
 I enjoy building clean, performant applications with beautiful UI/UX.
 Primarily work with the MERN stack, experienced in Java and Python too.
@@ -34,9 +33,13 @@ Also a homelabber and self-hosting enthusiast:
 • Building and managing infrastructure for learning and personal use
 • Experience with Proxmox VE, TrueNAS, Docker, and network-level configuration
 • Passionate about systems engineering, virtualization and automation
-```
+      </pre>
+    </td>
+  </tr>
+</table>
+<hr />
 
----
+
 
 ### 💻 Tech Stack:
 
