@@ -87,16 +87,23 @@ Also a homelabber and self-hosting enthusiast:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" height="150" alt="ananthu26 stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top langs" /> 
-</p> 
+### 📊 GitHub Stats 
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&column=6" alt="user trophies" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="ananthu26 stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="top langs" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthu26&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&no-frame=true&margin-w=15&column=6" alt="user trophies" />
+</p>
+
+---
 
 
 ---
