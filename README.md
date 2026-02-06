@@ -88,16 +88,14 @@ Also a homelabber and self-hosting enthusiast:
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthu26&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true" height="150" alt="ananthu26 stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu26&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top langs" /> 
+</p> 
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&column=6" alt="user trophies" /> 
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ananthu26&theme=tokyonight&margin-w=15&no-frame=true&title=Contributions,Repositories,Commits,PRsMerged,Joined,Experience" />
-</p>
-
-
 
 
 
